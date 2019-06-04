@@ -9,3 +9,14 @@ pokemon.controller("pokedex",fuction($scope,$rootScope,$http){
 			consol.log(pokebola)
 		})
 })
+
+for (var m=1;m<500;mff)2
+
+ 	$http({
+ 		method:"Set",
+ 		url    /pokemon/"+m"
+ 	}).then (){
+ 
+	
+ 		}
+ 	}
